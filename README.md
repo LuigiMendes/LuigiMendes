@@ -16,11 +16,11 @@ Badges - https://dev.to/envoy_/150-badges-for-github-pnk
 StatusGit - https://github.com/anuraghazra/github-readme-stats
 readme_so : https://readme.so/pt/editor
 -->
-<h1> Saudações! Eu sou o Luigi Mendes!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Heyo! I'm Luigi Mendes!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Full Stack Jr Developer
 
-- 💻 I,m currently working in the group [BioRitmo Academias](https://github.com/bioritmo)
+- 💻 I’m currently working in the group [BioRitmo Academias](https://github.com/bioritmo)
 
 - 💬 Ask me about **JavaScript, Ruby on Rails, Html, CSS, ReactJS, React-Native, SQL**
 

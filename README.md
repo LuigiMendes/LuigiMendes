@@ -5,8 +5,8 @@
 - 💻 I’m currently working in the group [BioRitmo Academias](https://github.com/bioritmo)
 
 - 💬 Ask me about **JavaScript, Ruby on Rails, Html, CSS, ReactJS, React-Native, SQL**
-
 <br>
+
 
 ## 🛠 &nbsp;Technologies
 
@@ -24,13 +24,15 @@ src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&lo
 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="GIT"
 src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-
+<br>
+<br>
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LuigiMendes&show_icons=true&theme=dracula" alt="Luigi Mendes Status">
  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiMendes&langs_count=8&theme=dracula&layout=compact"  alt="LuigiMendes's most languages">
 </p>
+<br>
 
 ## &nbsp;SOCIAL LINKS
 

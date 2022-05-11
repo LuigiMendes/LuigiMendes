@@ -18,11 +18,11 @@ readme_so : https://readme.so/pt/editor
 -->
 <h1> Saudações! Eu sou o Luigi Mendes!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Desenvolvedor FullStack Jr
+- 🔥 Full Stack Jr Developer
 
-- 💻 Atualmente trabalho no grupo [BioRitmo Academias](https://github.com/bioritmo)
+- 💻 I,m currently working in the group [BioRitmo Academias](https://github.com/bioritmo)
 
-- 💬 Respondo perguntas sobre **JavaScript, Ruby on Rails, Html, CSS, ReactJS, React-Native, SQL**
+- 💬 Ask me about **JavaScript, Ruby on Rails, Html, CSS, ReactJS, React-Native, SQL**
 
 <br>
 

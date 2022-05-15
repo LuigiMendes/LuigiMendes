@@ -1,6 +1,6 @@
 <h1> Heyo! I'm Luigi Mendes!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Jr Developer (in learning process =)
+- 🔥 Jr Developer in learning process =)
 
 - 💻 I’m currently working in the group [BioRitmo Academias](https://github.com/bioritmo)
 
